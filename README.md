@@ -82,6 +82,6 @@ Get recommendations on which products to add to your catalogue for better custom
 Contributors:
 <br>
 Akhil Songa<br>
-Naga Venkata Surya Sai Tanmai Raavi
+Naga Venkata Surya Sai Tanmai Raavi<br>
 Sri Teja Kumar Reddy Tetali
 
